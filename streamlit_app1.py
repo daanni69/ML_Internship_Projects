@@ -11,8 +11,8 @@ import streamlit as st
 import joblib
 
 # Load model and vectorizer
-model = joblib.load("/content/spam_emails_model.pkl")
-vectorizer = joblib.load("/content/vectorizer.pkl")
+model = joblib.load("spam_emails_model.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
 
 # UI Title
 st.title("📧 Email Spam Classifier")
