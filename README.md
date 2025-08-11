@@ -17,8 +17,8 @@ internship-ml-tasks/
 ├── spam_model.pkl # Trained Logistic Regression model (Task 1)
 ├── vectorizer.pkl # TF-IDF vectorizer (Task 1)
 ├── mnist_model.pkl # Trained Logistic Regression model (Task 2)
+├── streamlit_app1.py # Streamlit app for Task 1
 ├── streamlit_app2.py # Streamlit app for Task 2
-├── app.py # Streamlit app for Task 2
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 ---
@@ -92,8 +92,8 @@ Classify handwritten digits (0–9) from the **Mini MNIST dataset** using a Logi
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/daanni69/internship-ml-tasks.git
-cd internship-ml-tasks
+git clone https://github.com/daanni69/ML_Internship_Projects.git
+cd ML_Internship_Projects
 
 ## 👨‍💻 Author
 
