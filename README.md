@@ -14,10 +14,10 @@ internship-ml-tasks/
 ├── Task1_Email_Spam_Classifier.ipynb # Jupyter notebook for Task 1
 ├── Task2_MNIST_Digit_Recognizer.ipynb # Jupyter notebook for Task 2
 ├── Spam_Emails.csv # Dataset for Task 1
-├── model.pkl # Trained Logistic Regression model (Task 1)
+├── spam_model.pkl # Trained Logistic Regression model (Task 1)
 ├── vectorizer.pkl # TF-IDF vectorizer (Task 1)
 ├── mnist_model.pkl # Trained Logistic Regression model (Task 2)
-├── streamlit_app.py # Streamlit app for Task 1
+├── streamlit_app2.py # Streamlit app for Task 2
 ├── app.py # Streamlit app for Task 2
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
